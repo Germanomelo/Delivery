@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Delivery</string>
+    <string name="description">Descrição</string>
+    <string name="price">Preço</string>
+    <string name="enabled">Disponibilizar</string>
+    <string name="add_product">Cadastrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
